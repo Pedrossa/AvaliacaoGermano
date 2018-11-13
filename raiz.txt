@@ -1,0 +1,17 @@
+op=foto
+arquivo="arquivo"
+
+echo "Digite o link do arquivo"
+read link
+
+echo "seu arquivo é foto  ?"
+
+if test "$op"="foto"
+then
+ cd /home/rezende/Downloads
+
+wget $link
+fi
+
+
+

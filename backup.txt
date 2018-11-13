@@ -1,0 +1,6 @@
+
+cp -r /home/rezende/Documentos/* /home/rezende/Área\ de\ Trabalho/TestBackup 
+echo ********Copia efetuada com sucesso******
+
+
+ls

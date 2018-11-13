@@ -1,0 +1,10 @@
+echo "você quer instalar o hardinfo? s/n"
+read hardinfo
+
+if [ "$hardinfo" == "h" ]; then
+sudo apt-get install hardinfo
+else
+echo "Não foi possível instalar! saindo agora do ternimal. em 4segundos."
+sleep 4
+exit
+fi
