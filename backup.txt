@@ -1,5 +1,8 @@
 
 cp -r /home/rezende/Documentos/* /home/rezende/Área\ de\ Trabalho/TestBackup 
+cp -r /home/rezende/Downloads/* /home/rezende/Área\ de\ Trabalho/TestBackup
+cp -r /home/rezende/Área\de\ Trabalho/* /home/rezende/Área\ de\ Trabalho/TestBackup
+cp -r /home/rezende/Imagens/* /home/rezende/Área\ de\ Trabalho/TestBackup
 echo ********Copia efetuada com sucesso******
 
 

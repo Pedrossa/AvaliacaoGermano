@@ -1,4 +1,4 @@
-top | grep mem >>  /home/rezende/Área\ de\ Trabalho/ram.txt
+top | grep mem >>  /home/rezende/Área\ de\ Trabalho/Avaliacao/ram.txt
 
 Tarefas:(B[m[39;49m[1m 247 (B[m[39;49mtotal,(B[m[39;49m[1m   1 (B[m[39;49mem exec.,(B[m[39;49m[1m 198 (B[m[39;49mdormindo,(B[m[39;49m[1m   0 (B[m[39;49mparado,(B[m[39;49m[1m   0 (B[m[39;49mzumbi(B[m[39;49m(B[m[39;49m[K
 KB mem :(B[m[39;49m[1m  5025300 (B[m[39;49mtotal,(B[m[39;49m[1m   894300 (B[m[39;49mlivre,(B[m[39;49m[1m  1943096 (B[m[39;49musados,(B[m[39;49m[1m  2187904 (B[m[39;49mbuff/cache(B[m[39;49m(B[m[39;49m[K
